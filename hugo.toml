@@ -1,0 +1,5 @@
+baseURL = 'https://ai-sailing.github.io/'
+languageCode = 'en-us'
+title = 'Sailing with AI'
+theme = 'PaperMod'
+publishDir = "docs"
