@@ -3,3 +3,9 @@ languageCode = 'en-us'
 title = 'Sailing with AI'
 theme = 'PaperMod'
 publishDir = "docs"
+
+[menu]
+[[menu.main]]
+name = "Resources"
+url = "https://cal.com/zenja"
+weight = 10
